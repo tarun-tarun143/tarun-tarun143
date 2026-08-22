@@ -1,13 +1,4 @@
 
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Hi%20There%20👋%20I'm%20Tarun&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=BCA%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Hi%20there%20👋%20I'm%20Tarun&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=BCA%20Student%20•%20Full-Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
