@@ -1,50 +1,95 @@
+<div align="center">
+
 # 👋 Hi, I'm Tarun D
 
-### 💻 BCA Student | Full-Stack Developer | Open Source Contributor
+### 💻 BCA Student • Full-Stack Developer • Open Source Contributor • AI Enthusiast
 
-I'm a passionate developer who enjoys building real-world applications, contributing to open-source projects, and continuously learning new technologies.
+**Building practical software. Learning continuously. Contributing to open source. 🚀**
 
-🚀 Currently focused on:
-- Open Source Contributions
-- Full-Stack Web Development
-- Angular & React
-- TypeScript
-- Firebase
-- Building production-ready projects
+<p>
+  <a href="https://github.com/tarun-tarun143">
+    <img src="https://img.shields.io/badge/GitHub-Tarun%20D-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://tarun-portfolio-mauve.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🏆 Open Source Contribution
+## 👨‍💻 About Me
 
-### Apache Fineract
+I'm a **BCA student and aspiring software developer** who enjoys turning ideas into practical applications and learning through real-world development.
 
-🎉 **Contributor to Apache Fineract Backoffice UI**
+- 🎓 BCA Student
+- 🌐 Full-Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning enthusiast
+- 🌍 Open-source contributor
+- 🧩 Interested in scalable and production-ready software
+- 📚 Learning through projects, collaboration, and code reviews
 
-I recently contributed to the **Apache Fineract Backoffice UI** project.
+> **My approach:** Learn by building, improve through feedback, and contribute wherever I can.
 
-🔹 Migrated and fixed organization & working-capital component tests  
-🔹 Improved Angular unit-test coverage and compatibility  
-🔹 Resolved translation/testing configuration issues  
-🔹 Fixed ESLint suppressions and formatting issues  
-🔹 Successfully passed the complete test suite and CI checks
+---
 
-✅ **824 / 824 tests passing**  
-✅ **29 CI checks passed**  
-✅ Pull Request successfully reviewed and merged into `apache:main`
+## ⚡ What I'm Currently Doing
 
-🔗 Pull Request:  
+- 🏆 Contributing to **Apache Fineract Backoffice UI**
+- 🌐 Building full-stack applications with **Next.js, React, Angular & TypeScript**
+- 🎓 Developing a **Smart College Management System**
+- 🤖 Exploring **AI & Machine Learning**
+- 🧪 Improving testing, debugging, and code-quality skills
+- 🌱 Learning professional Git and GitHub workflows
+
+---
+
+## 🏆 Open Source Contributions
+
+### 🏛️ Apache Fineract — Backoffice UI
+
+I'm proud to have contributed to the **Apache Fineract Backoffice UI** project.
+
+#### Contribution Highlights
+
+- 🔧 Migrated and fixed organization & working-capital component tests
+- 🧪 Improved Angular unit-test coverage and compatibility
+- 🛠️ Resolved translation and testing configuration issues
+- 🧹 Fixed ESLint suppressions and formatting issues
+- 🔍 Worked through CI failures and code-review feedback
+
+#### Results
+
+| Result | Status |
+|---|---|
+| 🧪 Unit tests | **824 / 824 passing** |
+| ✅ CI checks | **29 passed** |
+| 🔀 Pull Request | **Reviewed & merged** |
+| 🌿 Target branch | `apache:main` |
+
+🔗 **Pull Request:**  
 https://github.com/apache/fineract-backoffice-ui/pull/435
 
-🔗 Apache Fineract:  
+🔗 **Apache Fineract Backoffice UI:**  
 https://github.com/apache/fineract-backoffice-ui
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+### 🇮🇳 India Post — DIGIPIN
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tarun-tarun143/tarun-tarun143/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+I'm also exploring contributions to the official open-source **DIGIPIN** project from India Post.
+
+#### Contribution Highlights
+
+- 🛠️ Fixed a missing `nodemon` development dependency
+- 🐛 Added `/encode` API input validation
+- 🧪 Tested GET and POST API behaviour
+- 🔀 Submitted pull requests to the repository
+- 📚 Learned real-world API debugging and GitHub contribution workflows
+
+🔗 **My Pull Requests:**  
+https://github.com/tarun-tarun143/pulls
 
 ---
 
@@ -52,22 +97,50 @@ https://github.com/apache/fineract-backoffice-ui
 
 ### 🎓 Smart College Management System
 
-A complete college management platform designed for students, faculty and administrators.
+A full-stack college management platform designed around **Admin, Faculty, and Student** portals.
+
+#### Features
+
+- 👨‍💼 Admin Dashboard
+- 👨‍🏫 Faculty Management
+- 🎓 Student Management
+- 📅 Attendance
+- 📝 Assignments
+- 📊 Exams & Results
+- 💰 Fees Management
+- 📢 Notices & Events
+- 📚 Library
+- 🔔 Notifications
+- 📈 Dashboard Analytics
 
 **Tech Stack:**
 
 `Next.js` `React` `TypeScript` `Tailwind CSS`  
 `Firebase Authentication` `Firestore` `Recharts` `Framer Motion`
 
+---
+
 ### 🌐 Personal Portfolio
 
-My professional developer portfolio showcasing my skills, projects, achievements and open-source contributions.
+My professional developer portfolio showcasing my:
 
-🔗 https://tarun-portfolio-mauve.vercel.app/
+- Skills
+- Projects
+- Open-source contributions
+- Achievements
+- Resume
+- Contact information
+
+🔗 **Live Portfolio:**  
+https://tarun-portfolio-mauve.vercel.app/
+
+---
 
 ### 💬 TARMORA
 
-A social platform project focused on connecting people, creating content and sharing experiences.
+A social platform project focused on:
+
+**Connect. Create. Share.**
 
 **Tech Stack:**
 
@@ -76,99 +149,138 @@ A social platform project focused on connecting people, creating content and sha
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" alt="Languages" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind" alt="Frontend Technologies" />
 </p>
 
-### Backend & Database
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" alt="Backend and Databases" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools" />
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun-tarun143&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-tarun143&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=tarun-tarun143&show_icons=true&theme=tokyonight&hide_border=true" alt="Tarun's GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-tarun143&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-tarun143&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-tarun143&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tarun-tarun143/tarun-tarun143/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
 
 ---
 
 ## 🏅 Achievements
 
-- 🏆 Apache Fineract Open Source Contributor
-- 🚀 Pull Request merged into Apache Fineract Backoffice UI
-- ✅ Successfully completed 824/824 unit tests
-- 🔧 Experience working with large Angular codebases
-- 🌱 Constantly learning and improving
-- 💻 Building real-world software projects
+- 🏆 **Apache Fineract Open Source Contributor**
+- 🚀 Pull Request merged into **Apache Fineract Backoffice UI**
+- 🧪 Successfully completed **824/824 unit tests**
+- ✅ Passed **29 CI checks**
+- 🔧 Experience working with large Angular/TypeScript codebases
+- 🌐 Building full-stack web applications
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🌍 Working with real-world open-source projects
+- 🌱 Continuously learning and improving
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun-tarun143&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun-tarun143&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity" />
+
+</div>
+
+---
+
+## 💡 What I Believe
+
+> **Great developers are not built by learning everything at once.**
+>
+> **They are built by consistently learning, building, contributing, and improving.**
+
+---
+
+## 🎯 My Goal
+
+> **Learn. Build. Contribute. Repeat. 🚀**
+
+I'm working towards becoming a strong **software developer and AI-focused engineer** by:
+
+- Building real-world applications
+- Contributing to impactful open-source projects
+- Improving my problem-solving skills
+- Learning modern software engineering practices
+- Collaborating with developers around the world
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/tarun-tarun143">
-<img src="https://img.shields.io/badge/GitHub-Tarun%20D-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Tarun%20D-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-</p>
-
----
-
-## 💡 My Goal
-
-> **Learn. Build. Contribute. Repeat.**
-
-I'm working towards becoming a strong software developer by building real-world applications and contributing to impactful open-source projects.
-
-⭐ If you find my projects interesting, consider giving them a star!
-
----
-
 <p align="center">
 
-### Thanks for visiting my profile! 👋
+<a href="https://github.com/tarun-tarun143">
+<img src="https://img.shields.io/badge/GitHub-Tarun%20D-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=tarun-tarun143&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="https://www.linkedin.com/in/tarun-d-283196299/">
+<img src="https://img.shields.io/badge/LinkedIn-Tarun%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://tarun-portfolio-mauve.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you find my work interesting, feel free to explore my repositories and connect with me.**
+
+<img src="https://komarev.com/ghpvc/?username=tarun-tarun143&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<br />
+
+**Building • Learning • Contributing 🚀**
+
+</div>
