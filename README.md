@@ -7,10 +7,6 @@
 
 
 <div align="center">
-
-
-### 💻 BCA Student • Full-Stack Developer • Open Source Contributor • AI Enthusiast
-
 **Building practical software. Learning continuously. Contributing to open source. 🚀**
 
 <p>
