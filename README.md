@@ -171,31 +171,14 @@ https://tarun-portfolio-mauve.vercel.app/
 
 ---
 
-## 📊 GitHub Statistics
+## 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tarun-tarun143&show_icons=true&theme=tokyonight&hide_border=true" alt="Tarun's GitHub Stats" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-tarun143&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-tarun143&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tarun-tarun143/tarun-tarun143/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
+</p>
 
 ---
 
@@ -210,16 +193,6 @@ https://tarun-portfolio-mauve.vercel.app/
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🌍 Working with real-world open-source projects
 - 🌱 Continuously learning and improving
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun-tarun143&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity" />
-
-</div>
 
 ---
 
