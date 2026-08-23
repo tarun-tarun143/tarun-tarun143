@@ -6,12 +6,8 @@
 
 
 
-
-
-
 <div align="center">
 
-# 👋 Hi, I'm Tarun D
 
 ### 💻 BCA Student • Full-Stack Developer • Open Source Contributor • AI Enthusiast
 
@@ -147,19 +143,6 @@ https://tarun-portfolio-mauve.vercel.app/
 
 ---
 
-### 💬 TARMORA
-
-A social platform project focused on:
-
-**Connect. Create. Share.**
-
-**Tech Stack:**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`  
-`Firebase` `Firestore` `Framer Motion`
-
----
-
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -206,7 +189,7 @@ A social platform project focused on:
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
 
