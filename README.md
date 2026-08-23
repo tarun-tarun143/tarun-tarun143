@@ -1,52 +1,78 @@
 # 👋 Hi, I'm Tarun D
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=BCA+Student;Software+Developer;Open+Source+Contributor;Apache+Fineract+Contributor" />
-</p>
+### 💻 BCA Student | Full-Stack Developer | Open Source Contributor
 
-<p align="center">
-  <a href="https://github.com/tarun-tarun143">
-    <img src="https://img.shields.io/github/followers/tarun-tarun143?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/tarun-tarun143">
-    <img src="https://img.shields.io/github/stars/tarun-tarun143?label=Stars&style=for-the-badge" />
-  </a>
-</p>
+I'm a passionate developer who enjoys building real-world applications, contributing to open-source projects, and continuously learning new technologies.
 
----
-
-## 🚀 About Me
-
-I'm **Tarun D**, a BCA student and software developer passionate about
-building real-world applications and contributing to open source.
-
-- 🎓 BCA Student
-- 💻 Software Developer
-- 🌍 Open Source Contributor
-- 🏆 Apache Fineract Contributor
-- 🧪 Interested in Testing & CI/CD
-- 🚀 Building real-world projects
-- 📚 Always learning and improving
+🚀 Currently focused on:
+- Open Source Contributions
+- Full-Stack Web Development
+- Angular & React
+- TypeScript
+- Firebase
+- Building production-ready projects
 
 ---
 
-## 🏆 Open Source
+## 🏆 Open Source Contribution
 
 ### Apache Fineract
 
-Proud to have contributed to **Apache Fineract Backoffice UI**.
+🎉 **Contributor to Apache Fineract Backoffice UI**
 
-- 🔥 Pull Request: **#435**
-- 🧪 Organization & Working Capital test migration
-- ✅ **824/824 tests passed**
-- ✅ **29 CI checks passed**
-- ✅ Code review completed
-- ✅ Approved by Apache Fineract maintainer
-- 🚀 Merged into `apache:main`
+I recently contributed to the **Apache Fineract Backoffice UI** project.
 
-> "lgtm and thanks for contribution"
+🔹 Migrated and fixed organization & working-capital component tests  
+🔹 Improved Angular unit-test coverage and compatibility  
+🔹 Resolved translation/testing configuration issues  
+🔹 Fixed ESLint suppressions and formatting issues  
+🔹 Successfully passed the complete test suite and CI checks
 
-🔗 **PR:** https://github.com/apache/fineract-backoffice-ui/pull/435
+✅ **824 / 824 tests passing**  
+✅ **29 CI checks passed**  
+✅ Pull Request successfully reviewed and merged into `apache:main`
+
+🔗 Pull Request:  
+https://github.com/apache/fineract-backoffice-ui/pull/435
+
+🔗 Apache Fineract:  
+https://github.com/apache/fineract-backoffice-ui
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tarun-tarun143/tarun-tarun143/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Smart College Management System
+
+A complete college management platform designed for students, faculty and administrators.
+
+**Tech Stack:**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`  
+`Firebase Authentication` `Firestore` `Recharts` `Framer Motion`
+
+### 🌐 Personal Portfolio
+
+My professional developer portfolio showcasing my skills, projects, achievements and open-source contributions.
+
+🔗 https://tarun-portfolio-mauve.vercel.app/
+
+### 💬 TARMORA
+
+A social platform project focused on connecting people, creating content and sharing experiences.
+
+**Tech Stack:**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`  
+`Firebase` `Firestore` `Framer Motion`
 
 ---
 
@@ -55,7 +81,7 @@ Proud to have contributed to **Apache Fineract Backoffice UI**.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
 </p>
 
 ### Frontend
@@ -67,121 +93,82 @@ Proud to have contributed to **Apache Fineract Backoffice UI**.
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🚀 Projects
-
-### 🎓 Smart College Management System
-
-A modern college management system designed for students,
-faculty and administrators.
-
-**Tech Stack:**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-`Firebase` `Firestore` `Recharts`
-
----
-
-### 🌐 Personal Portfolio
-
-My personal developer portfolio showcasing my projects,
-skills and open-source contributions.
-
-🔗 https://tarun-portfolio-mauve.vercel.app/
-
----
-
-### 💬 TARMORA
-
-A modern social application focused on connecting,
-creating and sharing.
-
-**Tech Stack:**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-`Firebase` `Firestore`
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun-tarun143&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-tarun143&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun-tarun143&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-tarun143&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-tarun143&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🏅 Achievements
+
+- 🏆 Apache Fineract Open Source Contributor
+- 🚀 Pull Request merged into Apache Fineract Backoffice UI
+- ✅ Successfully completed 824/824 unit tests
+- 🔧 Experience working with large Angular codebases
+- 🌱 Constantly learning and improving
+- 💻 Building real-world software projects
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tarun-tarun143&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun-tarun143&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 My Contributions
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tarun-tarun143/tarun-tarun143/output/github-contribution-grid-snake.svg"
-       alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun-tarun143&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🎯 Goals
-
-- 🌍 Contribute to more open-source projects
-- 🚀 Build production-ready applications
-- 🧪 Improve testing and software quality
-- ⚙️ Learn advanced CI/CD
-- ☁️ Explore cloud technologies
-- 🤝 Collaborate with developers worldwide
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/tarun-tarun143">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Tarun%20D-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://tarun-portfolio-mauve.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Tarun%20D-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </p>
 
 ---
 
-## ⚡ Developer Philosophy
+## 💡 My Goal
 
-> **Code. Contribute. Learn. Repeat.**
+> **Learn. Build. Contribute. Repeat.**
+
+I'm working towards becoming a strong software developer by building real-world applications and contributing to impactful open-source projects.
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+
+### Thanks for visiting my profile! 👋
+
+<img src="https://komarev.com/ghpvc/?username=tarun-tarun143&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
