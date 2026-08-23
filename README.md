@@ -79,23 +79,6 @@ https://github.com/apache/fineract-backoffice-ui
 
 ---
 
-### 🇮🇳 India Post — DIGIPIN
-
-I'm also exploring contributions to the official open-source **DIGIPIN** project from India Post.
-
-#### Contribution Highlights
-
-- 🛠️ Fixed a missing `nodemon` development dependency
-- 🐛 Added `/encode` API input validation
-- 🧪 Tested GET and POST API behaviour
-- 🔀 Submitted pull requests to the repository
-- 📚 Learned real-world API debugging and GitHub contribution workflows
-
-🔗 **My Pull Requests:**  
-https://github.com/tarun-tarun143/pulls
-
----
-
 ## 🚀 Featured Projects
 
 ### 🎓 Smart College Management System
