@@ -246,7 +246,9 @@ I'm working towards becoming a strong software developer and AI-focused engineer
 
 If you find my work interesting, explore my repositories, share feedback, or collaborate with me.
 
-<img src="https://komarev.com/ghpvc/?username=tarun-tarun143&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=tarun-tarun143&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+
 
 <br />
 
